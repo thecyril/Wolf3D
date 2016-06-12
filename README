@@ -1,0 +1,3 @@
+Firstly you have to intall the lib SFML and the liblapin 1.8
+just go into liblapin folder and type "./install.sh".
+compile the project with make and start it with "./wolf3d [map.ini]".

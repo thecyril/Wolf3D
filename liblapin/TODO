@@ -1,0 +1,12 @@
+Ajouter un paramètre à bunny_malloc afin de placer un fichier et une ligne
+et permettre de tracer l'alloc. Ajouter une allocation par vague.
+
+Ajouter, lorsque bunny_malloc ne trouve pas de blocs en mémoire, casser
+un gros bloc en plusieurs morceaux.
+Voir si il n'est pas possible de construire une liste chainée sur une montée
+en recursion.
+
+Une thread pool ultra simple ?
+Des sockets UDP ?
+
+Ajouter un moyen de déplacer les fenêtres
